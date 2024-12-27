@@ -1,0 +1,4 @@
+This project involves implementing a C program to help users manage tasks of various durations within a limited "jar"
+of available time. The program allows users to define task types, add or remove tasks while respecting the jar's capacity,
+and summarize tasks in a CSV-like format. It emphasizes error handling, input validation, and user interaction, providing
+a foundation for learning C concepts such as arrays, control structures, and version control with Git.
