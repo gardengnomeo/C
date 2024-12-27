@@ -1,0 +1,10 @@
+This project implements a word search puzzle solver using C, leveraging a structured
+approach with reusable functions and robust testing. The program reads a grid of letters
+from a file, searches for words entered by the user or through redirected input, and
+identifies the location and orientation (diagonal, anti-diagonal, etc.) of each word in
+the grid. Key functionality includes grid validation, directional searches, and output
+formatting, all organized in modular files: word_search.c, search_functions.h,
+search_functions.c, and test_search_functions.c. The project employs a 2D array for
+the grid and adheres to clear constraints such as a maximum grid size of 10x10, strict
+input formats, and output standards. Testing and debugging are streamlined through
+provided scaffolding, a Makefile for builds, and structured test cases using assertions.
