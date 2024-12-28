@@ -1,0 +1,7 @@
+This project processes images in the PPM format, applying operations like inversion, zooming,
+and Gaussian blur to manipulate and transform images. It emphasizes modular design by breaking
+functionality into separate files for PPM I/O, image manipulation, and the main program logic.
+Advanced techniques in C include dynamic memory allocation, struct-based image representation,
+pointer arithmetic for efficient pixel access, and 2D convolution for operations like blurring.
+It also builds upon error handling, file I/O, and the use of header files to organize and
+modularize code.
